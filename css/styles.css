@@ -42,19 +42,19 @@ input:focus, textarea:focus {
 
 .portfolio-content {
 	line-height: 2;
-	color: #555;
+	color: #AAA;
 }
 
 .portfolio-content a {
-	color: #333;
+	color: #CCC;
 	text-decoration: none;
 	border-bottom: 1px solid #bbb;
 }
 
 .portfolio-content a:hover {
-	color: #000;
+	color: #FFF;
 	text-decoration: none;
-	border-bottom: 1px solid #555;
+	border-bottom: 1px solid #AAA;
 }
 
 h1, h2, h3 {
