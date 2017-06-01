@@ -10,7 +10,7 @@ form {
 }
 
 button {
-  color: #777;
+  color: #FFF;
 	background: #fff;
   padding: 4px 12px 4px 12px;
   border: solid #777 2px;
@@ -19,7 +19,7 @@ button {
 }
 
 button:hover {
-	color: #000;
+	color: #FFF;
 	border: solid #000 2px;
   text-decoration: none;
 }
@@ -62,6 +62,7 @@ h1, h2, h3 {
 	letter-spacing: 1px;
 	font-weight: 300;
 	margin-bottom: 20px;
+	color: #FFF;
 }
 
 .navbar-brand {
