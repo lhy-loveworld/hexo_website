@@ -70,7 +70,7 @@ h1, h2, h3 {
 	color: #FFF;
 }
 
-a.navbar-brand {
+.navbar-brand a {
 	font-weight: 800;
 	font-size: 1.5rem;
 	letter-spacing: 0.5px;
