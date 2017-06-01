@@ -88,6 +88,10 @@ h1, h2, h3 {
 	color: #FFF;
 }
 
+.nav-link {
+	color: #FFF;
+}
+
 .navbar-toggler {
 	border: 0;
 }
