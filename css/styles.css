@@ -22,7 +22,7 @@ button {
 
 button:hover {
 	color: #FFF;
-	border: solid #000 2px;
+	border: solid #CCC 2px;
   text-decoration: none;
 }
 
