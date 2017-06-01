@@ -106,6 +106,7 @@ h1, h2, h3 {
 .navbar-toggler-right {
 	right: 0rem;
 	bottom: initial;
+	position: absolute;
 }
 
 .portfolio-img {
