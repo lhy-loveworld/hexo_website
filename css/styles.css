@@ -74,16 +74,19 @@ h1, h2, h3 {
 
 .navbar {
 	text-transform: uppercase;
+	color: #FFF;
 }
 
 .nav-item {
 	font-size: 0.8rem;
 	font-weight: 300;
 	letter-spacing: 1.5px;
+	color: #FFF;
 }
 
 .navbar-toggler {
 	border: 0;
+	color: #FFF;
 }
 
 .navbar-toggler-right {
