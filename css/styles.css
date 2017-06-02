@@ -181,7 +181,7 @@ h1, h2, h3 {
 .hovereffect img {
   display: block;
   position: relative;
-  max-width: none;
+  max-width: 1024px;
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
   transition: opacity 0.35s, transform 0.35s;
   -webkit-backface-visibility: hidden;
