@@ -88,6 +88,11 @@ h1, h2, h3 {
 	text-transform: uppercase;
 }
 
+.nav-description {
+	color: #5c4235;
+	font-size: 1rem;
+}
+
 .nav-item {
 	font-size: 0.8rem;
 	font-weight: 300;
