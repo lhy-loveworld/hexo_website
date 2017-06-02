@@ -1,5 +1,5 @@
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, "FangSong", "仿宋", "STFangsong", "华文仿宋";
 	color: #FFF;
 	background: #000;
 }
@@ -157,9 +157,27 @@ h1, h2, h3 {
 
 .hovereffect .overlay-text {
 	font-size: 1.3rem;
-	font-family: 'Crimson Text', sans-serif;
+	font-family: 'Crimson Text', sans-serif, "FangSong", "仿宋", "STFangsong", "华文仿宋";
 	font-weight: 300;
 	color: #FFF;
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	-webkit-transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+}
+
+.hovereffect .overlay-desc {
+	font-size: 1.8rem;
+	font-family: 'Crimson Text', sans-serif, "FangSong", "仿宋", "STFangsong", "华文仿宋";
+	font-weight: 300;
+	color: #c8c1b7;
 	left: 50%;
 	position: absolute;
 	top: 50%;
