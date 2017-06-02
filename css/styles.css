@@ -118,6 +118,7 @@ h1, h2, h3 {
 }
 
 .navbar-toggler .icon-bar {
+	background-color: #859145;
   display: block;
   width: 22px;
   height: 2px;
@@ -126,10 +127,6 @@ h1, h2, h3 {
 
 .navbar-toggler .icon-bar + .icon-bar {
   margin-top: 4px;
-}
-
-.navbar-toggler .icon-bar {
-  color: #859145;
 }
 
 .home_img {
