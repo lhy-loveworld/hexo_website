@@ -144,7 +144,7 @@ h1, h2, h3 {
 }
 
 .project-img {
-	width: 100%;
+	width: 60%;
 	display: block;
 	object-fit: cover;
 	margin: 0 auto;
