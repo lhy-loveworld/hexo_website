@@ -147,6 +147,7 @@ h1, h2, h3 {
 	width: 100%;
 	display: block;
 	object-fit: cover;
+	margin: 0 auto;
 }
 
 /* Image Hover Effect */
